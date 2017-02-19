@@ -2,7 +2,7 @@
 title: Registration
 ---
 
-### Registration
+## Registration
 
 Registration is by invitation only.
 
