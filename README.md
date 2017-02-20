@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# 2017 Future of Combustion Workshop
 
-You can use the [editor on GitHub](https://github.com/combustion-community-workshop-2017/combustion-community-workshop-2017.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A 1.5-day workshop on the future of the combustion research community will be held 22–23 April 2017 in College Park, Maryland, immediately prior to the US National Combustion Meeting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This invitation-only workshop will bring together junior faculty doing research in combustion and fire, and related fields, to discuss cultural and technical issues facing the community.
 
-### Markdown
+### Motivation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+While combustion is responsible for nearly 70% of energy consumption in the U.S., and inevitably will remain a large component for decades to come, the future of the combustion research community is less certain. Due to ineffective direct communication from the scientific community, the public and policymakers are unaware of the often exciting and important research topics and ongoing breakthroughs in the field. This starkly contrasts other research communities such as nuclear engineering and astronomy that have thrived since adapting to modern, open research practices and have diversified through cross-pollination with connected fields. The combustion community has resisted both changes. Finally, the field faces a population crisis in attracting and retaining a more diverse community of researchers, with talented researchers at all experience levels leaving the field due to lacking a sense of community.
 
-```markdown
-Syntax highlighted code block
+This workshop is intended to bring together junior faculty working in combustion and fire research, with the goal of learning about and discussing future challenges in the field from the perspective of early-career researchers. Primary objectives include identifying challenges, educating the early-career participants about such challenges, and discussing possible solutions. Discussions will be split into two thrusts, roughly corresponding to the two workshop days: cultural issues and technical issues facing the field. Participants will be limited to junior faculty researchers (i.e., untenured or recently tenured) to keep discussions focused on the issues facing the future of the research field.
 
-# Header 1
-## Header 2
-### Header 3
+Discussion topics related to cultural issues include:
+ - How can we attract and retain a more diverse researcher community?
+ - Related, how do we engage more with the public, so they can better understand the exciting and important research that is going on?
+ - How can we ensure combustion research has a future?
+ - How can we improve educational content? Most course materials are based on older content, have little numerical content, etc.
+ - How can we leverage research in reacting flows to larger educational outcomes?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/combustion-community-workshop-2017/combustion-community-workshop-2017.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Topics related to open technical issues include:
+ - How do we encourage adoption of better practices in the community?
+ - The field lacks reputable open-access publication venues.
+ - How can we encourage general open-science practices?
+ - How to encourage more cross-pollination with other related research fields?
+ - What should publishing look like?
