@@ -18,4 +18,4 @@ The organizing committee consists of:
 
 ### Participants
 
-More information about the participants will be added here closer to the workshop.
+More information about the participants will be added here closer to the workshop. The total number of participants, including the organizers, will be limited to 40.
