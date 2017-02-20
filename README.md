@@ -23,3 +23,9 @@ Topics related to open technical issues include:
  - How can we encourage general open-science practices?
  - How to encourage more cross-pollination with other related research fields?
  - What should publishing look like?
+
+### Acknowledgements
+
+We thank the National Science Foundation for supporting this workshop under grant CBET-1733968.
+
+![NSF logo](/nsf-logo.jpg)
