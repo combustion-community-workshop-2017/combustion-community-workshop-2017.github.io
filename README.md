@@ -1,6 +1,6 @@
 # 2017 Future of Combustion Workshop
 
-A 1.5-day workshop on the future of the combustion research community will be held 22–23 April 2017 in College Park, Maryland, immediately prior to the US National Combustion Meeting.
+A 1.5-day workshop on the future of the combustion research community will be held 22–23 April 2017 in College Park, Maryland, immediately prior to the [US National Combustion Meeting](http://blog.umd.edu/combustion2017/).
 
 This invitation-only workshop will bring together junior faculty doing research in combustion and fire, and related fields, to discuss cultural and technical issues facing the community.
 
