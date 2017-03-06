@@ -26,6 +26,6 @@ Topics related to open technical issues include:
 
 ### Acknowledgements
 
-We thank the National Science Foundation for supporting this workshop under grant [CBET-1733968](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1733968&HistoricalAwards=false). You can find the workshop proposal shared openly via https://doi.org/10.6084/m9.figshare.4620163.
+We thank the National Science Foundation for supporting this workshop under grant [CBET-1733968](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1733968&HistoricalAwards=false). You can find the workshop proposal shared openly via <https://doi.org/10.6084/m9.figshare.4620163>.
 
 ![NSF logo](/nsf-logo.jpg)
