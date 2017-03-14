@@ -4,6 +4,9 @@ A 1.5-day workshop on the future of the combustion research community will be he
 
 This invitation-only workshop will bring together junior faculty doing research in combustion and fire, and related fields, to discuss cultural and technical issues facing the community.
 
+All participants in the workshop are expected to comply with its [Code of Conduct](/code-of-conduct),
+both during the workshop and in any communications associated with it before, during, or after the event itself.
+
 ### Motivation
 
 While combustion is responsible for nearly 70% of energy consumption in the U.S., and inevitably will remain a large component for decades to come, the future of the combustion research community is less certain. Due to ineffective direct communication from the scientific community, the public and policymakers are unaware of the often exciting and important research topics and ongoing breakthroughs in the field. This starkly contrasts other research communities such as nuclear engineering and astronomy that have thrived since adapting to modern, open research practices and have diversified through cross-pollination with connected fields. The combustion community has resisted both changes. Finally, the field faces a population crisis in attracting and retaining a more diverse community of researchers, with talented researchers at all experience levels leaving the field due to lacking a sense of community.
