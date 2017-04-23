@@ -21,12 +21,12 @@ Time  | Description
 Time  | Description
 ------------- | -------------
 8:00 am  | Breakfast
-8:30 am  | Overview of technical topics
+8:45 am  | Overview of technical topics
 9:00 am  | Breakout discussions
-10:30 am | Break
-10:45 am | Breakout discussions
+10:15 am | Break
+10:30 am | Breakout discussions
+10:45 pm | Breakout group presentations
 12:00 pm | Break for lunch
-1:30 pm  | Breakout group discussions
-3:00 pm  | Breakout group presentations
+1:30 pm  | Implementation discussions
 3:30 pm  | Planning (report/paper writing, next steps)
 4:00 pm  | Closing
