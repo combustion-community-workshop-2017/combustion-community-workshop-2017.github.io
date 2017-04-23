@@ -27,6 +27,6 @@ Time  | Description
 10:45 am | Breakout discussions
 12:00 pm | Break for lunch
 1:30 pm  | Breakout group discussions
-3:00 pm  | Breakout group presentations
+2:30 pm  | Breakout group presentations
 3:30 pm  | Planning (report/paper writing, next steps)
 4:00 pm  | Closing
